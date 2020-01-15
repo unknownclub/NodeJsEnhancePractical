@@ -1,0 +1,6 @@
+const redisValues = {
+    hi: 'there'
+};
+
+
+
